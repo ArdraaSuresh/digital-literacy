@@ -51,7 +51,7 @@ digital-literacy-project/
 ### Task 3: Explore Coding & Collaboration Platforms
 - Completed foundational programming practice and built a collaborative data-collection tool.
 - Coding Practice: Completed the 'Python Introduction' challenge on HackerRank.
-- Collaboration: Developed the Digital Literacy Awareness Quiz ([Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe8S4xd2jPeG60Oa_SfOaJMb0Hkh5fXUzotWZPLX-FWwWWHTg/viewform?usp=sharing&ouid=107640824294427407521)).
+- Collaboration: Developed the Digital Literacy Awareness Quiz ([Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe8S4xd2jPeG60Oa_SfOaJMb0Hkh5fXUzotWZPLX-FWwWWHTg/viewform?usp=sharing)).
 - Location: /task-3-platforms
 
 ### Task 4: Professional Communication
