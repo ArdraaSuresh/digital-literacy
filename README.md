@@ -25,17 +25,17 @@ digital-literacy-project/
 ├── report/
 │   └── Project_Report.pdf  
 ├── task-1-presentation/
-│   └── Infographic.jpg
+│   └── Infographic.png
 ├── task-2-portfolio/
 │   └── (Profile Screenshots: GitHub, LinkedIn, Kaggle)
 ├── task-3-platforms/
 │   └── (HackerRank Proof & Google Form Screenshots)
 ├── task-4-email-etiquette/
-│   ├── email-drafts.md
-│   └── social-media-checklist.md
+│   ├── email etiuquette.pdf
+│   └── etiquette-checklist.txt
 └── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md 
+    ├── CASESTUDY.pdf
+    └── prevention-checklist.txt 
 ```
 ## Task Breakdown
 ### Task 1: Visualizing Digital Literacy
@@ -70,13 +70,3 @@ digital-literacy-project/
 - Programming & Logic: Python, HackerRank
 - Collaboration: Google Workspace (Forms, Sheets)
 - Professional Networking: LinkedIn, Kaggle
-
-
-***
-
-### How to use this:
-1. Go to your `digital-literacy` repository on GitHub.
-2. Click the pencil icon on your `README.md` file.
-3. Replace everything currently in there with the code block above.
-4. **Important:** Remember to swap out `[Your Reg No. Here]` at the top with your actual VIT registration number!
-5. Commit the changes.
