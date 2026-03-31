@@ -1,0 +1,15 @@
+Stay Safe Online: Cybercrime Prevention Checklist for Students
+
+UPI Tip 1: Never enter your UPI PIN to receive money. Your PIN is only required when you are sending money or checking your balance.
+UPI Tip 2: Always verify your actual bank account balance by logging into your official banking app before believing any SMS payment alerts.
+Enable Two-Factor Authentication (2FA) on all critical email, social media, and university portal accounts.
+Avoid conducting sensitive financial transactions while connected to public college Wi-Fi or unsecured cafe networks.
+Use a reliable password manager instead of memorizing the same password for your student portal and your bank accounts.
+Do not click on unsolicited links in emails or SMS claiming your account is blocked or needs an urgent "KYC update."
+Keep your social media profiles private and avoid sharing your phone number, location, or daily schedule publicly.
+Keep your laptop and smartphone operating systems updated to patch known security vulnerabilities.
+
+Mandatory Reporting Channels:
+If you or a peer encounter a cybercrime, report it immediately:
+National Cyber Crime Portal: cybercrime.gov.in
+National Cyber Crime Helpline: Dial 1930 (Available 24x7 for financial fraud)
